@@ -1,0 +1,43 @@
+form	lemma	POS
+"
+"	"
+"	SPACE
+C'	ce	PRON
+est	être	AUX
+de	de	ADP
+quoi	quoi	PRON
+la	le	DET
+philosophie	philosophie	NOUN
+s'	se	PRON
+aperçut	apercevoir	VERB
+dès	dès	ADP
+qu'	que	SCONJ
+elle	lui	PRON
+ouvrit	ouvrir	VERB
+les	le	DET
+yeux	oeil	NOUN
+.	.	PUNCT
+Les	le	DET
+arguments	argument	NOUN
+de	de	ADP
+Zénon	Zénon	PROPN
+d'	de	ADP
+Elée	Elée	PROPN
+,	,	PUNCT
+quoiqu'	quoique	SCONJ
+ils	il	PRON
+aient	avoir	AUX
+été	être	AUX
+formulés	formuler	VERB
+dans	dans	ADP
+une	un	DET
+intention	intention	NOUN
+bien	bien	ADV
+différente	différent	ADJ
+,	,	PUNCT
+ne	ne	ADV
+disent	dire	VERB
+pas	pas	ADV
+autre	autre	ADJ
+chose	chose	NOUN
+.	.	PUNCT

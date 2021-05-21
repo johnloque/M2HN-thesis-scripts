@@ -1,0 +1,47 @@
+form	lemma	POS
+"
+"	"
+"	SPACE
+Mais	mais	CCONJ
+d'	de	ADP
+abord	abord	NOUN
+,	,	PUNCT
+n'	n'	ADV
+y	y	PRON
+a	avoir	AUX
+-t	t	PART
+-il	il	PRON
+rien	rien	PRON
+du	de	DET
+tout	tout	PRON
+?	?	PUNCT
+Une	un	DET
+certaine	certain	ADJ
+matière	matière	NOUN
+sensible	sensible	ADJ
+n'	n'	ADV
+est	être	AUX
+-elle	lui	PRON
+pas	pas	ADV
+offerte	offrir	ADJ
+à	à	ADP
+la	le	DET
+vue	vue	NOUN
+,	,	PUNCT
+à	à	ADP
+l'	le	DET
+ouïe	ouïe	PROPN
+,	,	PUNCT
+au	au	DET
+toucher	toucher	NOUN
+,	,	PUNCT
+etc.	etc.	ADV
+,	,	PUNCT
+dans	dans	ADP
+le	le	DET
+sommeil	sommeil	NOUN
+comme	comme	ADP
+dans	dans	ADP
+la	le	DET
+veille	veille	NOUN
+?	?	PUNCT

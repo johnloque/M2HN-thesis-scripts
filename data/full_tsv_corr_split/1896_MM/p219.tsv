@@ -1,0 +1,25 @@
+form	lemma	POS
+"
+"	"
+"	SPACE
+Il	il	PRON
+ne	ne	ADV
+s'	se	PRON
+agit	agir	VERB
+pas	pas	ADV
+ici	ici	ADV
+d'	de	ADP
+une	un	DET
+hypothèse	hypothèse	NOUN
+,	,	PUNCT
+mais	mais	CCONJ
+d'	de	ADP
+un	un	DET
+fait	fait	NOUN
+,	,	PUNCT
+qu'	que	SCONJ
+une	un	DET
+hypothèse	hypothèse	NOUN
+recouvre	recouvrir	VERB
+généralement	généralement	ADV
+.	.	PUNCT

@@ -1,0 +1,47 @@
+form	lemma	POS
+"
+"	"
+"	SPACE
+Voyons	Voyons	PROPN
+donc	donc	ADV
+a	avoir	AUX
+quoi	quoi	PRON
+l'	le	DET
+on	on	PRON
+pense	pense	VERB
+quand	quand	SCONJ
+on	on	PRON
+parle	parle	VERB
+du	de	DET
+néant	néant	NOUN
+.	.	PUNCT
+Se	se	PRON
+représenter	représenter	VERB
+le	le	DET
+néant	néant	NOUN
+consiste	consiste	VERB
+ou	ou	CCONJ
+à	à	ADP
+l'	le	DET
+imaginer	imaginer	VERB
+ou	ou	CCONJ
+à	à	ADP
+le	le	DET
+concevoir	concevoir	NOUN
+.	.	PUNCT
+Examinons	examinon	NOUN
+ce	ce	PRON
+que	que	PRON
+peut	pouvoir	VERB
+être	être	AUX
+cette	ce	DET
+image	image	NOUN
+ou	ou	CCONJ
+cette	ce	DET
+idée	idée	NOUN
+.	.	PUNCT
+Commençons	commençon	NOUN
+par	par	ADP
+l'	le	DET
+image	image	NOUN
+.	.	PUNCT

@@ -1,0 +1,41 @@
+form	lemma	POS
+"
+"	"
+"	SPACE
+Telle	Telle	PROPN
+est	être	AUX
+la	le	DET
+doctrine	doctrine	NOUN
+que	que	SCONJ
+certains	certains	PRON
+avaient	avoir	AUX
+jugée	juger	VERB
+attentatoire	attentatoire	ADJ
+à	à	ADP
+la	le	DET
+Science	science	NOUN
+et	et	CCONJ
+à	à	ADP
+l'	le	DET
+Intelligence	intelligence	NOUN
+.	.	PUNCT
+C'	ce	PRON
+était	être	AUX
+une	un	DET
+double	double	ADJ
+erreur	erreur	NOUN
+.	.	PUNCT
+Mais	mais	CCONJ
+l'	le	DET
+erreur	erreur	NOUN
+était	être	AUX
+instructive	instructif	ADJ
+,	,	PUNCT
+et	et	CCONJ
+il	il	PRON
+sera	être	AUX
+utile	utile	ADJ
+de	de	ADP
+l'	l'	PRON
+analyser	analyser	VERB
+.	.	PUNCT

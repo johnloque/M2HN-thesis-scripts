@@ -1,0 +1,34 @@
+form	lemma	POS
+"
+"	"
+"	SPACE
+Pour	pour	ADP
+l'	le	DET
+observateur	observateur	NOUN
+en	en	ADP
+N	n	NOUN
+,	,	PUNCT
+ce	ce	PRON
+qui	qui	PRON
+en	en	ADP
+M	m	NOUN
+et	et	CCONJ
+en	en	ADP
+P	p	NOUN
+est	être	AUX
+simultané	simultaner	VERB
+à	à	ADP
+son	son	DET
+présent	présent	NOUN
+est	être	AUX
+parfaitement	parfaitement	ADV
+déterminé	déterminer	VERB
+,	,	PUNCT
+car	car	CCONJ
+le	le	DET
+système	système	NOUN
+est	être	AUX
+immobile	immobile	ADJ
+par	par	ADP
+hypothèse	hypothèse	NOUN
+.	.	PUNCT

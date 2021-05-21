@@ -1,0 +1,46 @@
+form	lemma	POS
+"
+"	"
+"	SPACE
+Mais	mais	CCONJ
+l'	le	DET
+erreur	erreur	NOUN
+est	être	AUX
+de	de	ADP
+croire	croire	VERB
+qu'	que	SCONJ
+avec	avec	ADP
+ces	ce	DET
+schémas	schéma	NOUN
+on	on	PRON
+recomposerait	recomposer	VERB
+le	le	DET
+réel	réel	NOUN
+.	.	PUNCT
+Nous	nous	PRON
+ne	ne	ADV
+saurions	savoir	VERB
+trop	trop	ADV
+le	le	PRON
+répéter	répéter	VERB
+:	:	PUNCT
+de	de	ADP
+l'	le	DET
+intuition	intuition	NOUN
+on	on	PRON
+peut	pouvoir	VERB
+passer	passer	VERB
+à	à	ADP
+l'	le	DET
+analyse	analyse	NOUN
+,	,	PUNCT
+mais	mais	CCONJ
+non	non	ADV
+pas	pas	ADV
+de	de	ADP
+l'	le	DET
+analyse	analyse	NOUN
+à	à	ADP
+l'	le	DET
+intuition	intuition	NOUN
+.	.	PUNCT

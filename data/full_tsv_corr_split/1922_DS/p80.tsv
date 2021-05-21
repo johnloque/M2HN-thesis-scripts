@@ -1,0 +1,40 @@
+form	lemma	POS
+"
+"	"
+"	SPACE
+Sont	être	VERB
+-ils	il	PRON
+,	,	PUNCT
+l'	le	DET
+un	un	PRON
+et	et	CCONJ
+l'	le	DET
+autre	autre	PRON
+,	,	PUNCT
+un	un	DET
+seul	seul	ADJ
+et	et	CCONJ
+même	même	ADJ
+Temps	temps	NOUN
+?	?	PUNCT
+Sont	être	AUX
+-ce	-ce	PRON
+des	un	DET
+Temps	temps	NOUN
+différents	différent	ADJ
+?	?	PUNCT
+Nous	nous	PRON
+allons	aller	VERB
+démontrer	démontrer	VERB
+qu'	que	SCONJ
+il	il	PRON
+s'	se	PRON
+agit	agir	VERB
+du	de	DET
+même	même	ADJ
+Temps	temps	NOUN
+dans	dans	ADP
+les	le	DET
+deux	deux	NUM
+cas	cas	NOUN
+.	.	PUNCT

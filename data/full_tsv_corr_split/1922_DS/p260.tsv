@@ -1,0 +1,30 @@
+form	lemma	POS
+"
+"	"
+"	SPACE
+En	en	ADP
+d'	d'	DET
+autres	autre	ADJ
+termes	terme	NOUN
+:	:	PUNCT
+entre	entre	ADP
+deux	deux	NUM
+événements	événement	NOUN
+déterminés	déterminé	ADJ
+,	,	PUNCT
+la	le	DET
+plus	plus	ADV
+LONGUE	long	ADJ
+ligne	ligne	NOUN
+d'	de	ADP
+Univers	Univers	PROPN
+est	être	AUX
+celle	celui	PRON
+qui	qui	PRON
+correspond	correspondre	VERB
+au	au	DET
+mouvement	mouvement	NOUN
+de	de	ADP
+translation	translation	NOUN
+uniforme	uniforme	ADJ
+.	.	PUNCT

@@ -1,0 +1,34 @@
+form	lemma	POS
+"
+"	"
+"	SPACE
+L'	le	DET
+inventeur	inventeur	NOUN
+qui	qui	PRON
+veut	vouloir	VERB
+construire	construire	VERB
+une	un	DET
+certaine	certaine	NOUN
+machine	machine	NOUN
+se	se	PRON
+représente	représente	VERB
+le	le	DET
+travail	travail	NOUN
+à	à	ADP
+obtenir	obtenir	VERB
+.	.	PUNCT
+La	le	DET
+forme	forme	NOUN
+abstraite	abstrait	ADJ
+de	de	ADP
+ce	ce	DET
+travail	travail	NOUN
+évoque	évoqu	ADJ
+successivement	successivemer	VERB
+dans	dans	ADP
+son	son	DET
+esprit	esprit	NOUN
+,	,	PUNCT
+à	à	ADP
+force	force	NOUN
+de	de	ADP

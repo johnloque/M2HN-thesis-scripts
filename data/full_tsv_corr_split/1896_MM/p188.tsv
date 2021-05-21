@@ -1,0 +1,40 @@
+form	lemma	POS
+"
+"	"
+"	SPACE
+De	de	ADP
+cette	ce	DET
+conception	conception	NOUN
+de	de	ADP
+la	le	DET
+vie	vie	NOUN
+mentale	mental	ADJ
+inférieure	inférieur	ADJ
+peuvent	pouvoir	VERB
+se	se	PRON
+déduire	déduire	VERB
+les	le	DET
+lois	loi	NOUN
+de	de	ADP
+l'	le	DET
+association	association	NOUN
+des	de	ADP
+idées	idée	NOUN
+.	.	PUNCT
+Mais	mais	CCONJ
+avant	avant	ADP
+d'	de	ADP
+approfondir	approfondir	NOUN
+ce	ce	DET
+point	point	NOUN
+,	,	PUNCT
+montrons	montron	NOUN
+l'	le	DET
+insuffisance	insuffisance	NOUN
+des	de	ADP
+théories	théorie	NOUN
+courantes	courant	ADJ
+de	de	ADP
+l'	le	DET
+association	association	NOUN
+.	.	PUNCT

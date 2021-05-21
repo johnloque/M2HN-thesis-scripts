@@ -1,0 +1,46 @@
+form	lemma	POS
+"
+"	"
+"	SPACE
+Mais	mais	CCONJ
+,	,	PUNCT
+pour	pour	ADP
+comprendre	comprendre	VERB
+la	le	DET
+nature	nature	NOUN
+de	de	ADP
+cette	ce	DET
+intuition	intuition	NOUN
+,	,	PUNCT
+pour	pour	ADP
+déterminer	déterminer	VERB
+avec	avec	ADP
+précision	précision	NOUN
+où	où	PRON
+l'	le	DET
+intuition	intuition	NOUN
+finit	finit	ADJ
+et	et	CCONJ
+où	où	PRON
+commence	commencer	VERB
+l'	le	DET
+analyse	analyse	NOUN
+,	,	PUNCT
+il	il	PRON
+faut	falloir	VERB
+revenir	revenir	VERB
+à	à	ADP
+ce	ce	PRON
+qui	qui	PRON
+a	avoir	AUX
+été	être	AUX
+dit	dire	VERB
+plus	plus	ADV
+haut	haut	ADJ
+de	de	ADP
+l'	le	DET
+écoulement	écoulement	NOUN
+de	de	ADP
+la	le	DET
+durée	durée	NOUN
+.	.	PUNCT

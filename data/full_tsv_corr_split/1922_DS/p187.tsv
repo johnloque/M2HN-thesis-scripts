@@ -1,0 +1,28 @@
+form	lemma	POS
+"
+"	"
+"	SPACE
+Mais	mais	CCONJ
+,	,	PUNCT
+en	en	ADP
+un	un	DET
+autre	autre	ADJ
+sens	sens	NOUN
+,	,	PUNCT
+elle	lui	PRON
+représente	représente	VERB
+davantage	davantage	ADV
+.	.	PUNCT
+Retranchant	retrancher	VERB
+par	par	ADP
+ici	ici	ADV
+,	,	PUNCT
+ajoutant	ajouter	VERB
+par	par	ADP
+là	là	ADV
+,	,	PUNCT
+elle	lui	PRON
+est	être	AUX
+doublement	doublement	ADV
+inadéquate	inadéquat	ADJ
+.	.	PUNCT

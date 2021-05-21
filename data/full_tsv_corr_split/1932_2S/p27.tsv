@@ -1,0 +1,13 @@
+form	lemma	POS
+"
+"	"
+"	SPACE
+Fair	Fair	PROPN
+is	is	PRON
+foul	foul	PROPN
+,	,	PUNCT
+and	and	X
+foul	foul	X
+is	is	DET
+fair	fair	NOUN
+.	.	PUNCT

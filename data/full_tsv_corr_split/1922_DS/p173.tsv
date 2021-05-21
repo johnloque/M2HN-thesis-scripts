@@ -1,0 +1,46 @@
+form	lemma	POS
+"
+"	"
+"	SPACE
+Mais	mais	CCONJ
+si	si	SCONJ
+,	,	PUNCT
+dans	dans	ADP
+cette	ce	DET
+expression	expression	NOUN
+,	,	PUNCT
+nous	nous	PRON
+considérons	considérer	VERB
+le	le	DET
+premier	premier	ADJ
+terme	terme	NOUN
+,	,	PUNCT
+qui	qui	PRON
+nous	nous	PRON
+donne	donne	VERB
+la	le	DET
+valeur	valeur	NOUN
+de	de	ADP
+,	,	PUNCT
+nous	nous	PRON
+voyons	voir	VERB
+qu'	que	SCONJ
+il	il	PRON
+surpasse	surpasser	VERB
+de	de	ADP
+la	le	DET
+quantité	quantité	NOUN
+:	:	PUNCT
+Or	or	CCONJ
+les	le	DET
+équations	équation	NOUN
+de	de	ADP
+Lorentz	Lorentz	PROPN
+donnent	donner	VERB
+:	:	PUNCT
+Nous	nous	PRON
+avons	avoir	VERB
+donc	donc	ADV
+ou	ou	CCONJ
+ou	ou	CCONJ
+enfin	enfin	ADV

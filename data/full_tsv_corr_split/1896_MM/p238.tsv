@@ -1,0 +1,22 @@
+form	lemma	POS
+"
+"	"
+"	SPACE
+IV	iv	ADJ
+.	.	PUNCT
+-	-	PUNCT
+Le	le	DET
+mouvement	mouvement	NOUN
+réel	réel	ADJ
+est	être	AUX
+plutôt	plutôt	ADV
+le	le	DET
+transport	transport	NOUN
+d'	de	ADP
+un	un	DET
+état	état	NOUN
+que	que	SCONJ
+d'	de	ADP
+une	un	DET
+chose	chose	NOUN
+.	.	PUNCT

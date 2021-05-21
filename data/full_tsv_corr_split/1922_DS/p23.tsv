@@ -1,0 +1,29 @@
+form	lemma	POS
+"
+"	"
+"	SPACE
+2	2	NUM
+°	degré	NOUN
+Le	le	DET
+Temps	temps	NOUN
+du	de	DET
+système	système	NOUN
+s'	se	PRON
+est	être	AUX
+dilaté	dilater	VERB
+.	.	PUNCT
+La	le	DET
+nouvelle	nouveau	ADJ
+seconde	second	ADJ
+est	être	AUX
+à	à	ADP
+l'	le	DET
+ancienne	ancienne	PROPN
+dans	dans	ADP
+le	le	DET
+rapport	rapport	NOUN
+de	de	ADP
+l'	le	DET
+unité	unité	NOUN
+à	à	ADP
+.	.	PUNCT

@@ -1,0 +1,33 @@
+form	lemma	POS
+"
+"	"
+"	SPACE
+II	II	NUM
+.	.	PUNCT
+La	le	DET
+reconnaissance	reconnaissance	NOUN
+d'	de	ADP
+un	un	DET
+objet	objet	NOUN
+présent	présent	ADJ
+se	se	PRON
+fait	faire	VERB
+par	par	ADP
+des	un	DET
+mouvements	mouvement	NOUN
+quand	quand	PRON
+elle	lui	PRON
+procède	procéder	VERB
+de	de	ADP
+l'	le	DET
+objet	objet	NOUN
+,	,	PUNCT
+par	par	ADP
+des	un	DET
+représentations	représentation	NOUN
+quand	quand	PRON
+elle	lui	PRON
+émane	éman	ADJ
+du	de	DET
+sujet	sujet	NOUN
+.	.	PUNCT

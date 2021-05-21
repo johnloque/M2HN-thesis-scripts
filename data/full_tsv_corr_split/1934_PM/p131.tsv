@@ -1,0 +1,41 @@
+form	lemma	POS
+"
+"	"
+"	SPACE
+Commençons	commençon	NOUN
+par	par	ADP
+le	le	DET
+mouvement	mouvement	NOUN
+.	.	PUNCT
+J'	je	PRON
+ai	avoir	VERB
+la	le	DET
+main	main	NOUN
+au	au	DET
+point	point	NOUN
+A.	a.	NOUN
+Je	je	PRON
+la	le	DET
+transporte	transporte	NOUN
+au	au	DET
+point	point	NOUN
+B	b	NOUN
+,	,	PUNCT
+parcourant	parcourir	VERB
+l'	le	DET
+intervalle	intervalle	NOUN
+AB	AB	PROPN
+.	.	PUNCT
+Je	je	PRON
+dis	dire	VERB
+que	que	SCONJ
+ce	ce	DET
+mouvement	mouvement	NOUN
+de	de	ADP
+A	a	NOUN
+en	en	ADP
+B	b	NOUN
+est	être	AUX
+chose	chose	NOUN
+simple	simple	ADJ
+.	.	PUNCT

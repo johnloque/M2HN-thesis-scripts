@@ -1,0 +1,22 @@
+form	lemma	POS
+"
+"	"
+"	SPACE
+c'	ce	PRON
+est	est	ADV
+-	-	ADV
+à	à	ADV
+-	-	ADV
+dire	dire	NOUN
+.	.	PUNCT
+Nous	nous	PRON
+retrouvons	retrouver	VERB
+bien	bien	ADV
+ainsi	ainsi	ADV
+la	le	DET
+""""	""""	PUNCT
+contraction	contraction	NOUN
+de	de	ADP
+Lorentz	Lorentz	PROPN
+""""	""""	PUNCT
+.	.	PUNCT

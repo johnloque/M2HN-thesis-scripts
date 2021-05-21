@@ -1,0 +1,28 @@
+form	lemma	POS
+"
+"	"
+"	SPACE
+Aux	à	ADP
+yeux	oeil	NOUN
+du	de	DET
+philosophe	philosophe	NOUN
+,	,	PUNCT
+elle	lui	PRON
+contient	contenir	VERB
+autre	autre	ADJ
+chose	chose	NOUN
+encore	encore	ADV
+:	:	PUNCT
+une	un	DET
+certaine	certain	ADJ
+conception	conception	NOUN
+de	de	ADP
+la	le	DET
+vérité	vérité	NOUN
+,	,	PUNCT
+et	et	CCONJ
+par	par	ADP
+conséquent	conséquent	NOUN
+une	un	DET
+philosophie	philosophie	NOUN
+.	.	PUNCT

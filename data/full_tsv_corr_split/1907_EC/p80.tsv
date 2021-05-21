@@ -1,0 +1,45 @@
+form	lemma	POS
+"
+"	"
+"	SPACE
+Interrogeons	interrogeon	NOUN
+sur	sur	ADP
+ce	ce	DET
+point	point	NOUN
+,	,	PUNCT
+tour	tour	NOUN
+à	à	ADP
+tour	tour	NOUN
+,	,	PUNCT
+les	le	DET
+deux	deux	NUM
+systèmes	système	NOUN
+opposés	opposer	ADJ
+d'	de	ADP
+explication	explication	NOUN
+évolutionniste	évolutionniste	ADJ
+,	,	PUNCT
+l'	le	DET
+hypothèse	hypothèse	NOUN
+de	de	ADP
+variations	variation	NOUN
+purement	purement	NOUN
+accidentelles	accidentel	ADJ
+,	,	PUNCT
+et	et	CCONJ
+celle	celui	PRON
+d'	de	ADP
+une	un	DET
+variation	variation	NOUN
+dirigée	diriger	VERB
+dans	dans	ADP
+un	un	DET
+sens	sens	NOUN
+défini	définir	VERB
+sous	sous	ADP
+l'	le	DET
+influence	influence	NOUN
+des	de	ADP
+conditions	condition	NOUN
+extérieures	extérieur	ADJ
+.	.	PUNCT

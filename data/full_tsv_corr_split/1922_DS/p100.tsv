@@ -1,0 +1,31 @@
+form	lemma	POS
+"
+"	"
+"	SPACE
+Ainsi	ainsi	ADV
+,	,	PUNCT
+rien	rien	PRON
+d'	de	ADP
+artificiel	artificiel	NOUN
+ni	ni	CCONJ
+de	de	ADP
+conventionnel	conventionnel	NOUN
+dans	dans	ADP
+la	le	DET
+simultanéité	simultanéité	NOUN
+,	,	PUNCT
+qu'	qu'	PRON
+on	on	PRON
+la	le	PRON
+prenne	prendre	VERB
+dans	dans	ADP
+l'	le	DET
+un	un	PRON
+ou	ou	CCONJ
+dans	dans	ADP
+l'	le	DET
+autre	autre	PRON
+des	de	ADP
+deux	deux	NUM
+systèmes	système	NOUN
+.	.	PUNCT

@@ -1,0 +1,37 @@
+form	lemma	POS
+"
+"	"
+"	SPACE
+1	1	NUM
+°	degré	NOUN
+Toutes	tout	ADJ
+les	le	DET
+longueurs	longueur	NOUN
+de	de	ADP
+S	s	NOUN
+'	'	PUNCT
+se	se	PRON
+sont	être	AUX
+contractées	contracter	VERB
+dans	dans	ADP
+le	le	DET
+sens	sens	NOUN
+de	de	ADP
+son	son	DET
+mouvement	mouvement	NOUN
+.	.	PUNCT
+La	le	DET
+nouvelle	nouveau	ADJ
+longueur	longueur	NOUN
+est	être	AUX
+à	à	ADP
+l'	le	DET
+ancienne	ancienne	PROPN
+dans	dans	ADP
+le	le	DET
+rapport	rapport	NOUN
+de	de	ADP
+à	à	ADP
+l'	le	DET
+unité	unité	NOUN
+.	.	PUNCT

@@ -1,0 +1,42 @@
+form	lemma	POS
+"
+"	"
+"	SPACE
+Ainsi	ainsi	ADV
+,	,	PUNCT
+le	le	DET
+temps	temps	NOUN
+vécu	vivre	VERB
+et	et	CCONJ
+compté	compté	ADV
+par	par	ADP
+le	le	DET
+premier	premier	ADJ
+physicien	physicien	NOUN
+dans	dans	ADP
+son	son	DET
+système	système	NOUN
+,	,	PUNCT
+et	et	CCONJ
+le	le	DET
+temps	temps	NOUN
+vécu	vivre	VERB
+et	et	CCONJ
+compté	compté	ADV
+par	par	ADP
+le	le	DET
+second	second	ADJ
+dans	dans	ADP
+le	le	DET
+sien	sien	NOUN
+,	,	PUNCT
+sont	être	AUX
+l'	le	DET
+un	un	PRON
+et	et	CCONJ
+l'	le	DET
+autre	autre	PRON
+des	de	ADP
+temps	temps	NOUN
+réels	réel	ADJ
+.	.	PUNCT

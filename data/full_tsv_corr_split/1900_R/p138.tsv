@@ -1,0 +1,42 @@
+form	lemma	POS
+"
+"	"
+"	SPACE
+On	on	PRON
+la	le	DET
+trouve	trouve	NOUN
+aussi	aussi	ADV
+souvent	souvent	ADV
+que	que	SCONJ
+l'	le	DET
+autre	autre	PRON
+.	.	PUNCT
+Et	et	CCONJ
+l'	le	DET
+on	on	PRON
+pourrait	pouvoir	VERB
+,	,	PUNCT
+semble	sembler	VERB
+-t	t	PART
+-il	il	PRON
+,	,	PUNCT
+en	en	ADP
+distinguer	distinguer	VERB
+deux	deux	NUM
+formes	forme	NOUN
+principales	principale	NOUN
+,	,	PUNCT
+selon	selon	ADP
+qu'	que	SCONJ
+elle	lui	PRON
+porte	porte	VERB
+sur	sur	ADP
+la	le	DET
+grandeur	grandeur	NOUN
+des	de	ADP
+objets	objet	NOUN
+ou	ou	CCONJ
+sur	sur	ADP
+leur	leur	DET
+valeur	valeur	NOUN
+.	.	PUNCT

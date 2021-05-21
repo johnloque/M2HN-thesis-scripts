@@ -1,0 +1,37 @@
+form	lemma	POS
+"
+"	"
+"	SPACE
+Ces	ce	DET
+exemples	exemple	NOUN
+suffiront	suffire	VERB
+à	à	ADP
+faire	faire	VERB
+comprendre	comprendre	VERB
+comment	comment	ADV
+une	un	DET
+des	un	DET
+formes	forme	NOUN
+les	le	DET
+plus	plus	ADV
+importantes	important	ADJ
+du	de	DET
+comique	comique	NOUN
+se	se	PRON
+projette	projeter	VERB
+et	et	CCONJ
+se	se	PRON
+simplifie	simplifier	VERB
+sur	sur	ADP
+le	le	DET
+plan	plan	NOUN
+du	de	DET
+langage	langage	NOUN
+.	.	PUNCT
+Passons	passon	NOUN
+à	à	ADP
+une	un	DET
+forme	forme	NOUN
+moins	moins	ADV
+générale	général	ADJ
+.	.	PUNCT

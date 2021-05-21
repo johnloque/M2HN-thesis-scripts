@@ -1,0 +1,30 @@
+form	lemma	POS
+"
+"	"
+"	SPACE
+Les	le	DET
+attitudes	attitude	NOUN
+,	,	PUNCT
+gestes	geste	NOUN
+et	et	CCONJ
+mouvements	mouvement	NOUN
+du	de	DET
+corps	corps	NOUN
+humain	humain	ADJ
+sont	être	AUX
+risibles	risible	ADJ
+dans	dans	ADP
+l'	le	DET
+exacte	exacte	NOUN
+mesure	mesure	NOUN
+où	où	PRON
+ce	ce	DET
+corps	corps	NOUN
+nous	nous	PRON
+fait	faire	VERB
+penser	penser	VERB
+à	à	ADP
+une	un	DET
+simple	simple	ADJ
+mécanique	mécanique	ADJ
+.	.	PUNCT

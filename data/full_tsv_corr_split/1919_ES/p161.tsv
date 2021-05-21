@@ -1,0 +1,30 @@
+form	lemma	POS
+"
+"	"
+"	SPACE
+Au	au	DET
+contraire	contraire	NOUN
+,	,	PUNCT
+si	si	SCONJ
+le	le	DET
+rappel	rappel	NOUN
+s'	se	PRON
+accompagne	accompagne	VERB
+d'	de	ADP
+un	un	DET
+effort	effort	NOUN
+,	,	PUNCT
+c'	ce	PRON
+est	être	VERB
+que	que	SCONJ
+l'	le	DET
+esprit	esprit	NOUN
+se	se	PRON
+meut	mouvoir	VERB
+d'	de	ADP
+un	un	DET
+plan	plan	NOUN
+à	à	ADP
+un	un	DET
+autre	autre	ADJ
+.	.	PUNCT

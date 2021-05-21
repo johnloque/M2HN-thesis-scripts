@@ -1,0 +1,26 @@
+form	lemma	POS
+"
+"	"
+"	SPACE
+La	le	DET
+symétrie	symétrie	NOUN
+est	être	AUX
+donc	donc	ADV
+parfaite	parfaire	VERB
+entre	entre	ADP
+S	s	NOUN
+et	et	CCONJ
+S	s	NOUN
+'	'	PUNCT
+,	,	PUNCT
+tant	tant	ADV
+que	que	SCONJ
+S	s	NOUN
+et	et	CCONJ
+S	s	NOUN
+'	'	PUNCT
+sont	être	AUX
+bien	bien	ADV
+deux	deux	NUM
+systèmes	système	NOUN
+.	.	PUNCT

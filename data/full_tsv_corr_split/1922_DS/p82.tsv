@@ -1,0 +1,38 @@
+form	lemma	POS
+"
+"	"
+"	SPACE
+Mais	mais	CCONJ
+alors	alors	ADV
+,	,	PUNCT
+que	que	PRON
+sont	être	AUX
+les	le	DET
+Temps	temps	NOUN
+multiples	multiple	ADJ
+,	,	PUNCT
+à	à	ADP
+vitesses	vitesse	NOUN
+d'	de	ADP
+écoulement	écoulement	AUX
+inégales	inégal	ADJ
+,	,	PUNCT
+que	que	SCONJ
+la	le	DET
+théorie	théorie	NOUN
+de	de	ADP
+la	le	DET
+Relativité	relativité	NOUN
+trouve	trouve	VERB
+aux	à	ADP
+divers	divers	ADJ
+systèmes	système	NOUN
+selon	selon	ADP
+la	le	DET
+vitesse	vitesse	NOUN
+dont	dont	PRON
+ces	ce	DET
+systèmes	système	NOUN
+sont	être	AUX
+animés	animer	VERB
+?	?	PUNCT

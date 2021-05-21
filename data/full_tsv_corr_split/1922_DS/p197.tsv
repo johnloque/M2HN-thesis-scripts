@@ -1,0 +1,31 @@
+form	lemma	POS
+"
+"	"
+"	SPACE
+Vous	vous	PRON
+vous	vous	PRON
+donnez	donner	VERB
+par	par	ADP
+là	là	ADV
+moins	moins	ADV
+qu'	que	SCONJ
+il	il	PRON
+ne	ne	ADV
+faut	falloir	VERB
+.	.	PUNCT
+Mais	mais	CCONJ
+,	,	PUNCT
+en	en	ADP
+un	un	DET
+autre	autre	ADJ
+sens	sens	NOUN
+,	,	PUNCT
+vous	vous	PRON
+vous	vous	PRON
+donnez	donner	VERB
+plus	plus	ADV
+qu'	que	SCONJ
+il	il	PRON
+ne	ne	ADV
+faut	falloir	VERB
+.	.	PUNCT

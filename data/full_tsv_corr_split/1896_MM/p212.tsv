@@ -1,0 +1,45 @@
+form	lemma	POS
+"
+"	"
+"	SPACE
+Avant	avant	ADP
+de	de	ADP
+nous	nous	PRON
+engager	engager	VERB
+dans	dans	ADP
+cette	ce	DET
+voie	voie	NOUN
+,	,	PUNCT
+formulons	formulon	NOUN
+le	le	DET
+principe	principe	NOUN
+général	général	ADJ
+de	de	ADP
+la	le	DET
+méthode	méthode	NOUN
+que	que	SCONJ
+nous	nous	PRON
+voudrions	vouloir	VERB
+appliquer	appliquer	VERB
+.	.	PUNCT
+Nous	nous	PRON
+en	en	PRON
+avons	avoir	VERB
+déjà	déjà	ADV
+fait	faire	VERB
+usage	usage	NOUN
+dans	dans	ADP
+un	un	DET
+travail	travail	NOUN
+antérieur	antérieur	ADJ
+,	,	PUNCT
+et	et	CCONJ
+même	même	ADV
+,	,	PUNCT
+implicitement	implicitement	ADV
+,	,	PUNCT
+dans	dans	ADP
+le	le	DET
+travail	travail	NOUN
+présent	présent	ADJ
+.	.	PUNCT

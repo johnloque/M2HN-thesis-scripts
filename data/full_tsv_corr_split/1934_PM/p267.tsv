@@ -1,0 +1,35 @@
+form	lemma	POS
+"
+"	"
+"	SPACE
+Mais	mais	CCONJ
+,	,	PUNCT
+à	à	ADP
+côté	côté	NOUN
+d'	de	ADP
+Aristote	aristote	NOUN
+,	,	PUNCT
+une	un	DET
+autre	autre	ADJ
+influence	influence	NOUN
+n'	n'	ADV
+a	avoir	AUX
+cessé	cesser	VERB
+de	de	ADP
+s'	se	PRON
+exercer	exercer	VERB
+sur	sur	ADP
+M.	monsieur	NOUN
+Ravaisson	Ravaisson	PROPN
+,	,	PUNCT
+l'	le	DET
+accompagnant	accompagner	VERB
+à	à	ADP
+travers	travers	NOUN
+la	le	DET
+vie	vie	NOUN
+comme	comme	ADP
+un	un	DET
+démon	démon	NOUN
+familier	familier	NOUN
+.	.	PUNCT

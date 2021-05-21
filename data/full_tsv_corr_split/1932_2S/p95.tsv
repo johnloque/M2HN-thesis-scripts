@@ -1,0 +1,47 @@
+form	lemma	POS
+"
+"	"
+"	SPACE
+A	avoir	VERB
+une	un	DET
+puissance	puissance	NOUN
+de	de	ADP
+ce	ce	DET
+genre	genre	NOUN
+le	le	DET
+sauvage	sauvage	NOUN
+fait	faire	VERB
+appel	appel	NOUN
+pour	pour	ADP
+que	que	SCONJ
+sa	son	DET
+flèche	flèche	NOUN
+touche	touche	VERB
+le	le	DET
+but	but	NOUN
+.	.	PUNCT
+Franchissez	franchir	VERB
+les	le	DET
+étapes	étape	NOUN
+d'	de	ADP
+une	un	DET
+longue	long	ADJ
+évolution	évolution	NOUN
+:	:	PUNCT
+vous	vous	PRON
+aurez	avoir	VERB
+les	le	DET
+dieux	dieux	NUM
+protecteurs	protecteur	NOUN
+de	de	ADP
+la	le	DET
+cité	cité	NOUN
+,	,	PUNCT
+qui	qui	PRON
+doivent	devoir	VERB
+assurer	assurer	VERB
+la	le	DET
+victoire	victoire	NOUN
+aux	à	ADP
+combattants	combattant	NOUN
+.	.	PUNCT
